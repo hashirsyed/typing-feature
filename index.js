@@ -7,5 +7,5 @@ input.addEventListener('keydown',function(){
 input.addEventListener('keyup',function(){
      timing = setTimeout(function() {
         state.innerHTML = "Online";
-    }, 2000);
+    }, 4000);
 })
